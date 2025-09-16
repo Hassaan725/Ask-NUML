@@ -1,0 +1,20 @@
+# ASK NUML Chatbot
+
+**Your AI guide to NUML CS!**  
+
+ASK NUML Chatbot is an AI-powered assistant that answers questions about NUML’s Computer Science department using **LangChain** and **OpenAI**. It can help with courses, faculty, and general department info instantly.
+
+---
+
+## Features
+- Ask questions about NUML CS programs and faculty.
+- Uses document embeddings for accurate answers.
+- Simple and interactive AI chatbot interface.
+
+---
+
+## Installation
+1. Open the project folder in **VS Code**.
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
